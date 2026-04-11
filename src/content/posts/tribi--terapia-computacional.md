@@ -2,7 +2,7 @@
 title: Terapia computacional
 pubDate: 2024-03-27
 categories: ["Poesía"]
-author: Adán Marín
+author: Tribi
 slug: terapia-computacional
 ---
 

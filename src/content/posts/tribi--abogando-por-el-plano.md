@@ -2,7 +2,7 @@
 title: Abogando por el plano
 pubDate: 2024-03-27
 categories: ["Cerebro"]
-author: Adán Marín
+author: Tribi
 slug: abogando-por-el-plano
 ---
 

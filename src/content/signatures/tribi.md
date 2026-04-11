@@ -1,4 +1,4 @@
 ---
-name: Adán Marín
+name: Tribi
 review: "Sin trabajo, a pesar de que me interesan mucho los objetos de plata y porcelana."
 ---

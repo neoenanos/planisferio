@@ -2,7 +2,7 @@
 title: Los caminos invisibles de la luz
 categories:
   - Manifiesto
-author: Adán Marín
+author: Tribi
 slug: los-caminos-invisibles-de-la-luz
 draft: false
 pin: false
