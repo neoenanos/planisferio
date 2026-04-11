@@ -3,6 +3,7 @@ title: 3 extractos
 pubDate: 2026-04-10
 categories: ["Poesía"]
 author: Divino Cordero
+banner: ./assets/divino-cordero-3.jpg
 slug: 3-extractos-dc
 ---
 
@@ -21,14 +22,12 @@ sí hijo divino; así es y así será por los siglos de los siglos; sí hijito; 
 
 ![](./assets/divino-cordero-5.jpg)
 
-![](./assets/divino-cordero-1.jpg) 
+![](./assets/divino-cordero-1.jpg)
 
-![](./assets/divino-cordero-2.jpg) 
+![](./assets/divino-cordero-2.jpg)
 
-![](./assets/divino-cordero-3.jpg) 
+![](./assets/divino-cordero-6.jpg)
 
-![](./assets/divino-cordero-6.jpg) 
+![](./assets/divino-cordero-10.jpg)
 
-![](./assets/divino-cordero-10.jpg) 
-
-![](./assets/divino-cordero-11.jpg) 
+![](./assets/divino-cordero-11.jpg)

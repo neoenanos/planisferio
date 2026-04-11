@@ -1,9 +1,9 @@
 {
-  "name": "astro-theme-typography",
+  "name": "planisferio",
   "type": "module",
   "version": "0.1.0",
   "packageManager": "pnpm@9.14.4",
-  "repository": "https://github.com/moeyua/astro-theme-typography",
+  "repository": "https://github.com/neoenanos/planisferio",
   "scripts": {
     "dev": "astro check && astro dev",
     "build": "astro check && astro build",
