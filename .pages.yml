@@ -40,7 +40,6 @@ content:
         type: date
         options:
           format: yyyy-MM-dd
-          min: 1900-01-01
   - name: authors
     label: Authors
     type: collection
