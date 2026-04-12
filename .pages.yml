@@ -4,8 +4,8 @@ content:
     label: Posts
     type: collection
     path: src/content/posts
-    view: 
-      fields: ["title","categories","author","body","slug","description","draft","pin", "pubDate","modDate"]
+    view:
+      fields: [title, categories, author, body, slug, description, draft, pin, pubDate, modDate]
     fields:
       - name: title
         label: Title
@@ -14,7 +14,7 @@ content:
         label: Categories
         type: select
         options:
-          values: [ Poesía, Cerebro, Manifiesto, Genodemia, Botaje ]
+          values: [Poesía, Cerebro, Manifiesto, Genodemia, Botaje]
           multiple: true
           creatable: true
       - name: author
@@ -39,14 +39,14 @@ content:
         label: Publish Date
         type: date
         options:
-          format: yyyy-dd-MM
+        format: yyyy-MM-dd
   - name: authors
     label: Authors
     type: collection
     path: src/content/signatures
-    view: 
-      fields: ["name","review"]
-    fields: 
+    view:
+      fields: [name, review]
+    fields:
       - name: name
         label: name
         type: string
