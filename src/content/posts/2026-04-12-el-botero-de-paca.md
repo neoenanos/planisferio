@@ -1,5 +1,5 @@
 ---
-title: El botero de paca
+title: El botero de Paca
 categories:
   - Genodemia
 author: Leoncio Bueno
