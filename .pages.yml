@@ -40,7 +40,6 @@ content:
         type: date
         options:
           format: yyyy-dd-MM
-          min: 2025-27-04
   - name: authors
     label: Authors
     type: collection
