@@ -6,6 +6,7 @@ author: Leoncio Bueno
 slug: el-botero-de-paca
 draft: false
 pin: false
+pubDate: 2026-11-04
 ---
 El viento estaba inmóvil entre el bosque de totora,
 
