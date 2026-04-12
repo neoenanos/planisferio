@@ -39,7 +39,7 @@ content:
         label: Publish Date
         type: date
         options:
-        format: yyyy-MM-dd
+          format: yyyy-MM-dd
   - name: authors
     label: Authors
     type: collection
