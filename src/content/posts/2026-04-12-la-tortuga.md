@@ -6,6 +6,7 @@ author: Zhuangzi
 slug: la-tortuga
 draft: false
 pin: false
+pubDate: 2026-17-04
 ---
 Estaba Zhuang zi pescando en el río Pu, cuando el rey de Chu despachó a dos de su altos dignatarios para que le comunicaran su intención: «¡Es mi deseo confiarle la carga de éste mi país!». Zhuang zi, sin soltar la caña ni tomar la cabeza, les dijo:
 
