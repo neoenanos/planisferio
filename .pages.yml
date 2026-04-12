@@ -39,8 +39,8 @@ content:
         label: Publish Date
         type: date
         options:
-          format: yyyy-MM-dd
-          min: 2025-27-04
+          format: dd-MM-yyyy
+          min: 27-04-2025
   - name: authors
     label: Authors
     type: collection
