@@ -6,7 +6,7 @@ author: Miguel Serrano
 slug: busqueda-de-la-ciudad
 draft: false
 pin: false
-pubDate: 2026-04-12
+pubDate: 2026-04-13
 ---
 
 Junto a la casa había un jardín. Mis primeros compañeros de juego fueron las raíces, las hojas, y esos espíritus de la naturaleza que hablan a los niños.
