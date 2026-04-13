@@ -54,7 +54,7 @@ Habrá que desposarse con ella; pero en _las bodas mágicas_.
 
 Esto es hondamente simbólico. Aunque el lenguaje escrito y las imágenes
 esculpidas en la piedra aparezcan llenas de intención sexual, lo serán en
-apariencia. Las formas de expresión de que d hombre dispone son limitadas. Lo
+apariencia. Las formas de expresión de que el hombre dispone son limitadas. Lo
 que cuenta es el sentido. También la ceremonia tántrica en los planos más altos,
 y entre los iniciados superiores, no se practica más que simbólicamente. Porque
 el matrimonio y la posesión acontecen dentro de uno mismo, del propio cuerpo del
