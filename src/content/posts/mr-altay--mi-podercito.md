@@ -3,7 +3,7 @@ title: El ajedrez humano
 categories:
   - Poesía
   - Botaje
-author: Don Luengo
+author: Señor Luengo
 slug: mi-poder
 draft: false
 pin: false
