@@ -16,4 +16,6 @@ Que estén hablando, pues: que estén cotorreando, si eso les gusta.
 Los ríos corren bramando en la oscuridad. El oro y la noche, la plata y la noche también forman las rocas, las paredes de los abismos en que el río suena; de esta roca están hechos mi mente, mi corazón, mis dedos.  
 ¿Qué hay a la orilla de esos ríos que tú no conoces doctor?  
 Saca tu larga vista, tus mejores anteojos. Mira, si puedes.  
-Quinientas flores de papas distintas crecen en los balcones de los abismos que tus ojos no alcanzan, sobre la tierra en que la noche y el oro, la plata y el día se mezclan. Esas quinientas flores, son mis sesos, mi carne.
+Quinientas flores de papas distintas crecen en los balcones de los abismos que tus ojos no alcanzan, sobre la tierra en que la noche y el oro, la plata y el día se mezclan. Esas quinientas flores, son mis sesos, mi carne.  
+  
+de Katatay (1972)
