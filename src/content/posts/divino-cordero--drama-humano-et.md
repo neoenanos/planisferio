@@ -1,7 +1,7 @@
 ---
 title: El drama humano
 pubDate: 2026-04-10
-categories: ["Poesía"]
+categories: ["Poesía", "Genodemia"]
 author: Divino Cordero
 banner: ./assets/divino-cordero-3.jpg
 slug: drama-humano-dc
