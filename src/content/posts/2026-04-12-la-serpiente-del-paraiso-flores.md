@@ -20,7 +20,7 @@ Vida y muerte son las dos caras opuestas de un círculo. Adentro y afuera. No pu
 
 La única solución posible quizá se encuentre en esa ciencia antigua: la Yoga, que permite a la Serpiente desenrollarse en un extremo y permanecer simultáneamente enrollada en el otro. Estar vivo y muerto a un tiempo, adentro y afuera, en el yo y en el Sí-Mismo, en el Ser.Aún existiría este pequeño paso, este sendero viejísimo, oculto, de fuego helado.
 
-* * *
+§
 
 Para el yogui "tántrico" la mujer deberá ser primero reconocida afuera, aceptada, como único camino posible para llegar a incorporarla a la propia alma. Habrá que desposarse con ella; pero en *las bodas mágicas*.
 
@@ -30,9 +30,9 @@ También la ceremonia tántrica en los planos más altos, y entre los iniciados 
 
 **La posesión representa en verdad la unión de los opuestos en el mismo cuerpo, de Slúva y Shakti, de "Ida" y "Pingala", de "Kundalini" con el "Aunan". Son varias bodas en una, varias uniones. Sin embargo, al final es una sola. La unión de los opuestos es la totalidad, el Andrógino. Se alcanza en la Copa del Arbol de la Vida; la ambrosía se bebe en el Brahma-Chakra, o chakra Coronario, donde se halla la fuente de la vida eterna y de la eterna juventud. Allí la mente y la visión se unen, los órganos pierden su identidad. Es la realización de "Sunya", el Vacío, del Nirvana de los budistas. Según el budismo mahayánico, tántrico, este Vacío es Compasión; por esto el Boddihisatva Avalokitesvara entra al Nirvana sólo por un extremo de la cuerda, quedando siempre atado al mundo por el otro. La unión de los opuestos tiene quizás la forma y el sonido de la sílaba OM.**
 
-**Cuando los extremos se unen, cada uno cumple el deseo del otro. El matrimonio es con la Serpiente. Desposada ya, le crecen alas y una túnica de novia cubre el alma. En realidad, es el cuerpo sutil que ha adquirido vida propia, que ha sido bordado internamente en el telar de los "chakras", con las agujas de "Kundalini". Por esto la túnica es flamígera. Este cuerpo sutil, astral, es el "hijo de lino", que nos permite seguir viviendo después de la muerte. Con él logramos también un estado de "conciencia continua", porque con él velamos mientras el cuerpo físico duerme. Las Bodas son también una resurrección. Ahí, en el Vacío, en "Sunya", desaparece toda semilla.**  
+**Cuando los extremos se unen, cada uno cumple el deseo del otro. El matrimonio es con la Serpiente. Desposada ya, le crecen alas y una túnica de novia cubre el alma. En realidad, es el cuerpo sutil que ha adquirido vida propia, que ha sido bordado internamente en el telar de los "chakras", con las agujas de "Kundalini". Por esto la túnica es flamígera. Este cuerpo sutil, astral, es el "hijo de lino", que nos permite seguir viviendo después de la muerte. Con él logramos también un estado de "conciencia continua", porque con él velamos mientras el cuerpo físico duerme. Las Bodas son también una resurrección. Ahí, en el Vacío, en "Sunya", desaparece toda semilla.**
 
-* * *
+**§**
 
 **Al fin estoy fuera. Veo mi cuerpo inmóvil y pálido, como muerto. Frente a mí está ella. Estoy en su mano, dentro de su flor. Me dice: "Una vez te enseñé a mirar las flores, ahora te enseñaré a escucharlas. Son tus propias flores, porque el jardín estuvo siempre dentro de ti. Recorrámoslo. Escucha su música". Y oigo entonces la música del universo, que no es otra que la música de mis propias flores, de mis lotos. Todo vibra al unísono. Y voy con ella, de flor en flor, de pétalo en pétalo, ascendiendo desde muy abajo. Y aunque voy con ella de la mano, sé que también estoy dentro de su mano, muy pequeña, dentro de su flor.**
 
