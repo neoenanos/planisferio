@@ -20,11 +20,7 @@ Vida y muerte son las dos caras opuestas de un círculo. Adentro y afuera. No pu
 
 La única solución posible quizá se encuentre en esa ciencia antigua: la Yoga, que permite a la Serpiente desenrollarse en un extremo y permanecer simultáneamente enrollada en el otro. Estar vivo y muerto a un tiempo, adentro y afuera, en el yo y en el Sí-Mismo, en el Ser.Aún existiría este pequeño paso, este sendero viejísimo, oculto, de fuego helado.
 
-
-
-<center> § <center/>
-
-
+§ 
 
 Para el yogui "tántrico" la mujer deberá ser primero reconocida afuera, aceptada, como único camino posible para llegar a incorporarla a la propia alma. Habrá que desposarse con ella; pero en *las bodas mágicas*.
 
