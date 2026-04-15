@@ -7,6 +7,8 @@ banner: ./assets/divino-cordero-3.jpg
 slug: drama-humano-dc
 ---
 
+![](./assets/divino-cordero-3.jpg)
+
 el drama humano se hizo hereditario; la bestia que representa a los más influenciados por el oro, los dividió a todos; y todos aportan mentalmente, planetas a las tinieblas; si la bestia no exsistiese, nadie aportaría planetas a las tinieblas; porque habría surgido un sistema de vida más amoroso; el drama humano vá más allá del llorar y crujir de dientes; éste ocurre en un presente; los planetas generados en el reinado de la bestia, incluyen infinitos futuros presentes; que son otros tantos llorares y crujires de dientes; porque en cada idea que se generó, iba la extraña semilla de la bestia; semilla que por la ley de la expansión, llegará a ser planeta; en todo instante esta ley se cumple, desde los doce años de edad; los niños generan planetas de inocencias; sus ideas son microscópicos reinos; la bestia en todo instante los corrompe con su extraño complejo de la posesión; del oro; todo llamado adulto que corrompió a la inocencia, se expondrá a la ira de Jehova-Padre; muchos les inculcan desde pequeños, el comercio; sabiendo que ningún comerciante entra al Reino de los Cielos; los tales tendrán divino juicio por corromper a los inocentes de Dios; a los corruptores de niños, más les valdría no haber nacido; en las jerarquías solares, ellos al separar las ideas de la luz, de las ideas de las tinieblas, separan también las ideas de los niños; el fruto de los bienaventurados; un fruto que dará lugar a futuros mundos de inocencia; ó a futuros mundos de la fantasía viviente;
 
 ![](./assets/divino-cordero-8.jpg)
