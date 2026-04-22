@@ -21,9 +21,9 @@ Así es hijito; el color está en lo material y en lo espíritual; porque la cri
 
 ![Dibujo explicativo Divino Cordero](./assets/divino-cordero-19.png)
 
-![Dibujo explicativo Divino Cordero](./assets/divino-cordero-20.png)
+![Dibujo explicativo Divino Cordero](./assets/divino-cordero-20.jpg)
 
-![Dibujo explicativo Divino Cordero](./assets/divino-cordero-21.png)
+![Dibujo explicativo Divino Cordero](./assets/divino-cordero-21.jpg)
 
 sí hijo divino; así es y así será por los siglos de los siglos; sí hijito; así es; no quedará piedra sobre piedra, del maldito edificio filosófico, de la maldita nobleza terrestre; lágrimas de sangre llorarán; pues nadie les tenderá la mano; muchos se suicidarán; maldecirán haber sido nobles; pues nadie querrá tener amistad con un maldito, que sólo espera para ser juzjado; mientras que mis humildes, recorren en hermosísimas naves plateadas, las galáxias del infinito; pues todo aquél que se ha ganado la divina resurrección de la carne, niño será; y como niño entrará en mi divina morada; pues escrito fué, que los niños serían los primeros, en el divino Reino de los Cielos; sí hijo divino; así es y así será por los siglos de los siglos; esto significa que sólo un niño puede lanzar la primera piedra; pues es más puro, frente a las maldades del mundo; su divina filosofía angelical, arrastra con todas las demás filosofías, que sólo fueron roca de egoísmo humano; sí hijo divino; así es y así será por los siglos de los siglos; es por eso que nadie osará tocarte hijo divino; nadie osará lanzarte la primera piedra filosófica de su propio pensamiento; pues toda divina filosofía humana, desaparece en la divina presencia, de tu propio y divino poder solar; pues los divinos querubínes, que rodean tu divino cuerpo, leen todo pensamiento humano; pues ellos saben en su divino libre albedrío, que ninguna filosofía humana, debe sobrepasarse en su propia y divina escala espíritual; quien lo haga, sólo tinieblas encuentra; sólo confusión encuentra su mente; tal como le ocurrió al divino Judas; pero Judas obró por ignorancia basada en la total ausencia de ilustración;
 
