@@ -2,6 +2,7 @@
 import { themeConfig } from '~/.config'
 import LayoutDefault from '~/layouts/LayoutDefault.astro'
 import LayoutPost from '~/layouts/LayoutPost.astro'
+import type { Post } from '~/types'
 import { formatDate, getCategories, getPathFromCategory, getPostDescription } from '~/utils'
 
 export async function getStaticPaths() {
@@ -16,21 +17,32 @@ export async function getStaticPaths() {
 }
 
 const { posts, name } = Astro.props
+
+function getListItems(posts: Post[]) {
+  const result = posts.map((post) => ({
+    title: post.data.title,
+    href: `/posts/${post.id}/`,
+    date: formatDate(post.data.pubDate),
+    author: post.data.author,
+  }))
+  return result
+}
 ---
 
 <LayoutDefault>
-<header>
-  <h1 style="font-size: xx-large; font-weight: bolder;"># {name}</h1>
-  <a class="font-mono" style="font-size: small;" href={`/categories/simplified/${name}`}>Vista Simplificada</a>
-</header>
+  <header>
+    <h1 style="font-size: xx-large; font-weight: bolder;"># {name}</h1>
+    <a class="font-mono" style="font-size: small;" href={`/categories/${name}`}>Vista Ampliada</a>
+  </header>
   <section>
     <ul class="pl-6 py-3" flex="~ col gap-4">
       {
-        posts.map((post) => (
+        getListItems(posts).map(({ author, title, href }) => (
           <li class="category-li">
-            <LayoutPost post={post}, route={'posts'}>
-              <p class="line-clamp-4">{getPostDescription(post)}</p>
-            </LayoutPost>
+            <h3 class="post-title">
+              <a href={href}>{title}</a>
+            </h3>
+            <a href={`/authors/${author}`}>{author}</a>
           </li>
         ))
       }

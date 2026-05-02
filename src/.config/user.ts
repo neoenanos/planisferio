@@ -7,7 +7,7 @@ export const userConfig: Partial<UserConfig> = {
     author: 'NeoEnanos Chocloneros',
     description: 'Partidarios del choclón',
     website: 'https://planisferio.cl',
-    pageSize: Infinity,
+    pageSize: 10,
     socialLinks: [
       {
         name: 'github',
@@ -28,22 +28,22 @@ export const userConfig: Partial<UserConfig> = {
     ],
     navLinks: [
 
-      {
-        name: 'Manifest',
-        href: '/manifiests/',
-      },
-      {
-        name: 'Poetry',
-        href: '/poetry',
-      },
-      {
-        name: 'Brain',
-        href: '/brain',
-      },
       // {
-      //   name: 'Posts',
-      //   href: '/posts',
+      //   name: 'Manifest',
+      //   href: '/manifiests/',
       // },
+      // {
+      //   name: 'Poetry',
+      //   href: '/poetry',
+      // },
+      // {
+      //   name: 'Brain',
+      //   href: '/brain',
+      // },
+      {
+        name: 'Text',
+        href: '/posts',
+      },
       // {
       //   name: 'Authors',
       //   href: '/authors',

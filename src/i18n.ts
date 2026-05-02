@@ -130,6 +130,7 @@ export const LANGUAGES = {
     About: 'Quienes Somos',
     Links: 'Links',
     Manifest: 'Despotriques',
+    Text: 'Texto',
     Brain: 'Cerebro',
 
     posted_at: 'Fechado a',
