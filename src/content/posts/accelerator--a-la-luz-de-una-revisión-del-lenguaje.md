@@ -6,8 +6,6 @@ author: Accelerator
 slug: revision-del-lenguaje
 ---
 
-# A la luz de una revisión del lenguaje...
-
 Tercera vez. Creo que no exagero.
 
 En el esmalte de una muralla se forma, parsimoniosamente, un rectángulo _(telas líneas)_
