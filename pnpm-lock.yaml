@@ -117,9 +117,15 @@ importers:
       markdown-it:
         specifier: ^14.1.0
         version: 14.1.0
+      mdast-util-find-and-replace:
+        specifier: ^3.0.2
+        version: 3.0.2
       prettier-plugin-astro:
         specifier: ^0.13.0
         version: 0.13.0
+      rehype-raw:
+        specifier: ^7.0.0
+        version: 7.0.0
       sanitize-html:
         specifier: ^2.16.0
         version: 2.16.0
@@ -4168,8 +4174,8 @@ packages:
   mdast-util-definitions@6.0.0:
     resolution: {integrity: sha512-scTllyX6pnYNZH/AIp/0ePz6s4cZtARxImwoPJ7kS42n+MnVsI4XbnG6d4ibehRIldYMWM2LD7ImQblVhUejVQ==}
 
-  mdast-util-find-and-replace@3.0.1:
-    resolution: {integrity: sha512-SG21kZHGC3XRTSUhtofZkBzZTJNM5ecCi0SK2IMKmSXR8vO3peL+kb1O0z7Zl83jKtutG4k5Wv/W7V3/YHvzPA==}
+  mdast-util-find-and-replace@3.0.2:
+    resolution: {integrity: sha512-Tmd1Vg/m3Xz43afeNxDIhWRtFZgM2VLyaf4vSTYwudTyeuTneoL3qtWMA5jeLyz/O1vDJmmV4QuScFCA2tBPwg==}
 
   mdast-util-from-markdown@2.0.0:
     resolution: {integrity: sha512-n7MTOr/z+8NAX/wmhhDji8O3bRvPTV/U0oTCaZJkjhPSKTPhS3xufVhKGF8s1pJ7Ox4QgoIU7KHseh09S+9rTA==}
@@ -10901,7 +10907,7 @@ snapshots:
       '@types/unist': 3.0.2
       unist-util-visit: 5.0.0
 
-  mdast-util-find-and-replace@3.0.1:
+  mdast-util-find-and-replace@3.0.2:
     dependencies:
       '@types/mdast': 4.0.3
       escape-string-regexp: 5.0.0
@@ -10947,7 +10953,7 @@ snapshots:
       '@types/mdast': 4.0.3
       ccount: 2.0.1
       devlop: 1.1.0
-      mdast-util-find-and-replace: 3.0.1
+      mdast-util-find-and-replace: 3.0.2
       micromark-util-character: 2.1.0
 
   mdast-util-gfm-footnote@2.0.0:

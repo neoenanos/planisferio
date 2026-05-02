@@ -4,9 +4,11 @@ import swup from '@swup/astro'
 import robotsTxt from 'astro-robots-txt'
 import { defineConfig } from 'astro/config'
 import rehypeKatex from 'rehype-katex'
+import rehypeRaw from 'rehype-raw'
 import remarkMath from 'remark-math'
 import UnoCSS from 'unocss/astro'
 import { themeConfig } from './src/.config'
+import { remarkGlobe } from './src/utils/globeWrap'
 
 // https://astro.build/config
 export default defineConfig({
@@ -16,9 +18,11 @@ export default defineConfig({
   markdown: {
     remarkPlugins: [
       remarkMath,
+      remarkGlobe,
     ],
     rehypePlugins: [
       rehypeKatex,
+      rehypeRaw,
     ],
     shikiConfig: {
       theme: 'dracula',

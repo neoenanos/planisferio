@@ -19,7 +19,7 @@ analítica de la verdad; las palabras mismas no me decían nada sino con la
 condición de ser interpretadas a la manera de un aflujo de sangre a la cara de
 una persona que se turba, también a la manera de un silencio súbito.
 
-[...]
+🌐
 
 Sin embargo, al cabo de un momento, después de haber pensado en esas
 resurrecciones de la memoria, se me ocurrió que, de otra forma, impresiones
@@ -85,11 +85,9 @@ difícil de descifrar de todos, es también el único que nos ha dictado la
 realidad, el único cuya «impresión» en nosotros había sido obra de la realidad
 misma. Sea cual fuere la idea dejada en nosotros por la vida, su figura
 material, huella de la impresión que nos ha causado, sigue siendo el testimonio
-de su verdad necesaria. **Las ideas formadas por la inteligencia pura sólo
-tienen una verdad lógica, una verdad posible, su elección es arbitraria. El
-libro con caracteres figurados, no trazados por nosotros, es nuestro único
-libro.** No es que las ideas que concibamos no puedan ser atinadas lógicamente,
-pero no sabemos si son verdaderas. Sólo la impresión, por endeble que parezca su
+de su verdad necesaria.
+**Las ideas formadas por la inteligencia pura sólo tienen una verdad lógica, una verdad posible, su elección es arbitraria. El libro con caracteres figurados, no trazados por nosotros, es nuestro único libro.**
+No es que las ideas que concibamos no puedan ser atinadas lógicamente, pero no sabemos si son verdaderas. Sólo la impresión, por endeble que parezca su
 materia e inaprensible su huella, es un criterio de verdad y, por esa razón, es
 la única que merece ser aprehendida por el entendimiento, pues es la única apta,
 si éste sabe extraer su verdad para conducirlo hasta una mayor perfección y

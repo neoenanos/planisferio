@@ -8,13 +8,14 @@ draft: false
 pin: false
 pubDate: 2026-04-13
 ---
+
 Junto a la casa había un jardín. Mis primeros compañeros de juego fueron las raíces, las hojas, y esos espíritus de la naturaleza que hablan a los niños.
 
 Un día, del interior de una flor asomó una mano y me hizo señas para que me aproximase. Un niño no se asusta de eso; no me extrañó, pues, ver la mano. En cambio, me preocupó que la invitación fuese para entrar en la flor. Poco después, la flor se deshojó. Quise recoger sus pétalos y reconstruirla; pero me fue imposible. Pensé entonces en armar una flor de papel pintándola de colores vivos. Muchos días pasé en mi trabajo, hasta que la flor estuvo terminada. La llevé al jardín y la puse en el lugar donde apareciera la mano. Si la flor hubiese estado bien hecha, la mano volvería a asomar. Pero la mano no vino, no retornó más. Mi flor no podía compararse con las del jardín, pintadas por el buen Dios.
 
 En aquel momento dejé de ser niño y no pude seguir conversando con las plantas, las raíces, los espíritus, ni con las manos que aparecen y desaparecen en los jardines. Había entrado en competencia con la naturaleza y con el buen Dios; había contraído, sin saberlo, el compromiso mortal de crear una flor.
 
-[...]
+🌐
 
 Se nos anunció que debíamos dejar el Círculo por algún tiempo, para dedicarnos a la búsqueda física de la Ciudad sin que pudiéramos regresar hasta no traer una descripción personal y más o menos exacta de ella. Para ayudarnos, el Maestro nos hizo un relato somero de la Ciudad, tal como él la concebía:
 
@@ -24,4 +25,4 @@ Se hace necesario dar muchas vueltas en torno a sus muros para descubrirla. A ve
 
 No olvidéis lo que os digo: la Ciudad es un laberinto, un Círculo sin ningún centro y con innumerables circunferencias. Buscadla con calma, con esperanza, sin dormiros jamás, con los ojos muy abiertos. Y no volváis aquí sin traerme una descripción de ella que, aun inexacta, me hará feliz.
 
-de *La flor inexistente* (1969)
+de _La flor inexistente_ (1969)

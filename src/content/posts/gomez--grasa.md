@@ -8,8 +8,6 @@ slug: aquí-dentro
 pubDate: 2026-05-01
 ---
 
-![](./assets/grasa-1.png)
-
 dijeron: \
 al menor movimiento o amague de fuga serán \
 castigados puestos como se debe en la más \
@@ -54,7 +52,7 @@ siempre ustedes una presión gigantesca y que \
 la estupendísima criatura así como va \
 me estaría dejando un sabor espantoso
 
-[...]
+🌐
 
 aquí mismo en esta cabeza hay miles millones \
 de años de historia sucede y lo reconozco es \

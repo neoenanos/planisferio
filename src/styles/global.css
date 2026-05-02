@@ -21,3 +21,10 @@ html {
   --at-apply: 'ease-in-out duration-300ms';
   --at-apply: 'hover:(c-background bg-primary decoration-primary)';
 }
+
+@layer utilities {
+  .paragraph-separator {
+    @apply text-transparent;
+    text-shadow: 0 0 0 var(--uno-colors-primary);
+  }
+}
