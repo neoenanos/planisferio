@@ -2,6 +2,7 @@
 title: Nosotros no estamos ni ahí
 categories:
   - Poesía
+  - Manifiesto
 author: M.N Carrasco
 slug: nosotros-no-estamos-ni-ahí
 pubDate: 2026-05-02
